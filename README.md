@@ -9,7 +9,7 @@
 
 - Anaconda
 
-## Accomplishments
+## Related accomplishments
 
 - Publication: 
   - Online Anomaly Detection Method for Meter Positions in Automatic Verification Assembly Line of Smart Meter. (PKU, Corresponding author) Url: https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.19753/j.issn1001-1390.2020.14.018
